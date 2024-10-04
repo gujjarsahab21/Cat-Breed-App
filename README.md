@@ -57,5 +57,3 @@ https://api.thecatapi.com/v1/breeds
 - Ensure you have an active internet connection to fetch data from the API.
 - The project is styled using Bootstrap and custom CSS for an attractive and responsive design.
 - Additional features can be implemented for further enhancements.
-
-```
